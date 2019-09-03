@@ -7,7 +7,7 @@ author:
     affiliation_url: https://www.maynoothuniversity.ie/
 date: 10-16-2018
 output:
-  radix::radix_article:
+  distill::distill_article:
     self_contained: false
 editor_options: 
   chunk_output_type: console

@@ -23,6 +23,6 @@ navbar:
     - text: "Projetos"
       href: projetos.html
 output:
-  radix::radix_article:
+  distill::distill_article:
     css: styles.css
 

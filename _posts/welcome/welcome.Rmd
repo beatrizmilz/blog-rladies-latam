@@ -10,7 +10,7 @@ author:
     affiliation_url: https://example.com/spacelysprokets
 date: 10-09-2018
 output:
-  radix::radix_article:
+  distill::distill_article:
     self_contained: false
 ---
 
